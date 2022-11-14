@@ -1,0 +1,13 @@
+body{
+    color: #fff;
+}
+
+.center{
+    text-align: center;
+
+}
+#color{
+    color: orange;
+    text-align: center;
+    font-size: 540%;
+}
